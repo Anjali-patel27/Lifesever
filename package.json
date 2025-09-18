@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "argon2": "^0.44.0",
+    "better-sqlite3": "^12.2.0",
+    "express": "^5.1.0",
+    "nanoid": "^5.1.5"
+  }
+}
